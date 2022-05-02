@@ -5,6 +5,7 @@ public class JavaTest1 {
 		System.out.println("Deepak Tukaram Yadav");
 		System.out.println("At.Masur");
 		System.out.println("Current Address: Pune");
+		System.out.println("my permananet address is Yadavawadi");
 		
 		
 	}
